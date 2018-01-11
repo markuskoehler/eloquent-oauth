@@ -5,7 +5,12 @@
     {
         "name": "Adam Wathan",
         "email": "adam.wathan@gmail.com"
-    }
+    },
+        {
+            "name": "Markus Koehler",
+            "email": "markus.koehler@rockwellcollins.com",
+            "role": "Software Engineer"
+        }
     ],
     "license": "MIT",
     "require": {
