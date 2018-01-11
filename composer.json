@@ -1,5 +1,5 @@
 {
-    "name": "markuskoehler/eloquent-oauth",
+    "name": "adamwathan/eloquent-oauth",
     "description": "Stupid simple OAuth authentication with Laravel and Eloquent",
     "authors": [
     {
