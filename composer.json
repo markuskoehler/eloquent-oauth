@@ -21,13 +21,7 @@
         "illuminate/http": "4.*|5.*",
         "illuminate/routing": "4.*|5.*",
         "illuminate/support": "4.*|5.*",
-        "socialnorm/socialnorm": "^0.2",
-        "socialnorm/facebook": "^0.2",
-        "socialnorm/github": "^0.2",
-        "socialnorm/linkedin": "^0.2",
-        "socialnorm/google": "^0.2",
-        "socialnorm/instagram": "^0.2",
-        "socialnorm/soundcloud": "^0.2"
+        "markuskoehler/socialnorm-google": "^0.3"
     },
     "require-dev": {
         "mockery/mockery": "~0.9",
