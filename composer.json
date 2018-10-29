@@ -21,7 +21,7 @@
         "illuminate/http": "4.*|5.*",
         "illuminate/routing": "4.*|5.*",
         "illuminate/support": "4.*|5.*",
-        "markuskoehler/socialnorm-google": "^0.3"
+        "markuskoehler/socialnorm-google": "dev-master"
     },
     "require-dev": {
         "mockery/mockery": "~0.9",
